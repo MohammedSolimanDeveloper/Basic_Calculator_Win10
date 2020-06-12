@@ -1,4 +1,4 @@
-# Basic_Calculator_Win10
-Standard Calculator in windows 10
-Desktop Applications
+Win_Form_Calculator_C#
+Standard Calculator
+Windows Form Application (WFA) 
 Created by Mohammed Soliman
